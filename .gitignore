@@ -3,3 +3,5 @@
 /bin/main.js.map
 .ecs_invalidation
 /bin/config/*
+bin/config/keys.json
+bin/config/commands.json
